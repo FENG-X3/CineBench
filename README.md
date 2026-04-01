@@ -1,31 +1,43 @@
 # CineBench
 
-`CineBench` is a bilingual (Chinese/English) video aesthetic benchmark designed for evaluating multimodal large models on cinematic understanding tasks.
+Public release of the CineBench benchmark: bilingual (Chinese/English) tables, video clips, and an evaluation pipeline.
 
-## Repository contents
+## Contents
 
-- `AI/`: AI-generated video clips used in benchmark items.
-- `movie/`: movie video clips used in benchmark items.
-- `CineBench_zh.xlsx` and `CineBench_en.xlsx`: bilingual benchmark tables.
-- `zh_en_map.json`: Chinese-English mapping metadata.
-- `标注结果/`: annotation and merged benchmark results.
-- `pipeline/`: evaluation pipeline for model inference and scoring.
-- `CineBench005.pdf`: paper draft/manuscript for submission.
+- `AI/`: AI-generated clips (~0.42 GB, 71 files).
+- `movie/`: movie clips (~2.71 GB total, 375 files; flat folder).
+- Root Excel splits: `CineBench_*_train.xlsx`, `CineBench_*_test.xlsx` (test rows use `correct_choice = -1`).
+- `pipeline/`: evaluation code; default annotations: `pipeline/CineBench/data/cb_en_train.json`.
+- `LICENSE`, `.gitignore`.
 
 ## Quick start (evaluation)
 
 ```bash
 cd pipeline
-python eval.py --model qwen --annotation_file cb_zh.json --max_num_frames 16 --seed 42
+python eval.py --model qwen --annotation_file cb_en_train.json --max_num_frames 16 --seed 42
 ```
 
-See `pipeline/README.md` for full dependency and API-key configuration details.
+See `pipeline/README.md` for dependencies and API keys.
 
-## Notes for reviewers
+## GitHub push and the 2 GiB pack limit
 
-- The benchmark is provided in both Chinese and English.
-- Video assets are organized by source category (`AI` and `movie`).
-- Evaluation scripts are cleaned for reproducibility and require API keys via environment variables only.
+GitHub rejects a single receive pack larger than about **2 GiB**. This repository is split into **five commits** (code first, then `AI/`, then `movie/` in three size-limited batches) so each push uploads a smaller pack.
+
+**Push in order** (advance `master` one commit at a time). List commits from oldest to newest:
+
+```bash
+git rev-list --reverse HEAD
+```
+
+Then push each hash in that list, one line at a time (use `-u` only on the first line):
+
+```bash
+git push -u origin <oldest_sha>:refs/heads/master
+git push origin <next_sha>:refs/heads/master
+# ... repeat until the newest sha
+```
+
+If `master` on the remote already points elsewhere and you intend to replace it with this history, use `--force` only when you understand that it overwrites the remote branch.
 
 ## Citation
 
