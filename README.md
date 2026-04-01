@@ -39,6 +39,28 @@ git push origin <next_sha>:refs/heads/master
 
 If `master` on the remote already points elsewhere and you intend to replace it with this history, use `--force` only when you understand that it overwrites the remote branch.
 
+### After pushing: did anything actually fail?
+
+From a healthy log, each step should end with `To github.com:...` and `<old>..<new>  <sha> -> master`. The line `Everything up-to-date` often appears because the same `git push` was run twice in one paste block; it is not an error.
+
+Verify that the remote caught up with your laptop:
+
+```bash
+git fetch origin
+git rev-parse HEAD
+git rev-parse origin/master
+```
+
+The two SHAs should match (e.g. both `39d24e9...`).
+
+### If a step fails mid-upload
+
+Messages like `Connection reset by peer`, `Broken pipe`, or `unexpected disconnect` mean the network dropped during upload. **Re-run the same** `git push origin <that_commit_sha>:refs/heads/master` command; Git only sends missing objects.
+
+### GitHub “large file” warnings
+
+Warnings such as “larger than 50 MB” are **recommendations**, not a failed push. GitHub blocks individual blobs **≥ 100 MB**; your reported files (~56 MB) are still accepted. For a cleaner long-term setup, consider [Git LFS](https://git-lfs.github.com/).
+
 ## Citation
 
 If you use CineBench, please cite the corresponding paper once publicly released.
