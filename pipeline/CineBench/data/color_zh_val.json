@@ -1,0 +1,2476 @@
+[
+    {
+        "video_id": "AI_4",
+        "id": "AI_4_3",
+        "video_path": ".\\AI\\AI_4.mp4",
+        "correct_choice": 2,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "白",
+            "橙",
+            "绿",
+            "蓝",
+            "红"
+        ]
+    },
+    {
+        "video_id": "AI_5",
+        "id": "AI_5_2",
+        "video_path": ".\\AI\\AI_5.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "紫",
+            "红",
+            "蓝",
+            "橙",
+            "白"
+        ]
+    },
+    {
+        "video_id": "AI_5",
+        "id": "AI_5_3",
+        "video_path": ".\\AI\\AI_5.mp4",
+        "correct_choice": 5,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "黄",
+            "紫",
+            "绿",
+            "白",
+            "黑"
+        ]
+    },
+    {
+        "video_id": "AI_6",
+        "id": "AI_6_2",
+        "video_path": ".\\AI\\AI_6.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "蓝",
+            "红",
+            "橙",
+            "青",
+            "黄"
+        ]
+    },
+    {
+        "video_id": "AI_8",
+        "id": "AI_8_3",
+        "video_path": ".\\AI\\AI_8.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "暖色调",
+            "对比色调",
+            "冷色调",
+            "自然色调"
+        ]
+    },
+    {
+        "video_id": "AI_9",
+        "id": "AI_9_3",
+        "video_path": ".\\AI\\AI_9.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "自然色调",
+            "对比色调",
+            "暖色调",
+            "冷色调"
+        ]
+    },
+    {
+        "video_id": "AI_9",
+        "id": "AI_9_4",
+        "video_path": ".\\AI\\AI_9.mp4",
+        "correct_choice": 5,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "蓝",
+            "绿",
+            "黑",
+            "青",
+            "橙"
+        ]
+    },
+    {
+        "video_id": "AI_10",
+        "id": "AI_10_2",
+        "video_path": ".\\AI\\AI_10.mp4",
+        "correct_choice": 2,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "自然色调",
+            "暖色调",
+            "对比色调",
+            "冷色调"
+        ]
+    },
+    {
+        "video_id": "AI_10",
+        "id": "AI_10_3",
+        "video_path": ".\\AI\\AI_10.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "红",
+            "青",
+            "橙",
+            "白",
+            "紫"
+        ]
+    },
+    {
+        "video_id": "AI_11",
+        "id": "AI_11_3",
+        "video_path": ".\\AI\\AI_11.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "红",
+            "绿",
+            "白",
+            "橙",
+            "蓝"
+        ]
+    },
+    {
+        "video_id": "AI_11",
+        "id": "AI_11_4",
+        "video_path": ".\\AI\\AI_11.mp4",
+        "correct_choice": 5,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "青",
+            "紫",
+            "红",
+            "黄",
+            "黑"
+        ]
+    },
+    {
+        "video_id": "AI_12",
+        "id": "AI_12_2",
+        "video_path": ".\\AI\\AI_12.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "紫",
+            "蓝",
+            "红",
+            "橙",
+            "绿"
+        ]
+    },
+    {
+        "video_id": "AI_12",
+        "id": "AI_12_3",
+        "video_path": ".\\AI\\AI_12.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "黑",
+            "白",
+            "青",
+            "蓝",
+            "橙"
+        ]
+    },
+    {
+        "video_id": "AI_13",
+        "id": "AI_13_3",
+        "video_path": ".\\AI\\AI_13.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "白",
+            "红",
+            "青",
+            "橙",
+            "蓝"
+        ]
+    },
+    {
+        "video_id": "AI_17",
+        "id": "AI_17_2",
+        "video_path": ".\\AI\\AI_17.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "对比色调",
+            "暖色调",
+            "冷色调",
+            "自然色调"
+        ]
+    },
+    {
+        "video_id": "AI_18",
+        "id": "AI_18_2",
+        "video_path": ".\\AI\\AI_18.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "蓝",
+            "紫",
+            "黑",
+            "橙",
+            "白"
+        ]
+    },
+    {
+        "video_id": "AI_19",
+        "id": "AI_19_3",
+        "video_path": ".\\AI\\AI_19.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "冷色调",
+            "对比色调",
+            "自然色调",
+            "暖色调"
+        ]
+    },
+    {
+        "video_id": "AI_20",
+        "id": "AI_20_3",
+        "video_path": ".\\AI\\AI_20.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "暖色调",
+            "对比色调",
+            "冷色调",
+            "自然色调"
+        ]
+    },
+    {
+        "video_id": "AI_22",
+        "id": "AI_22_2",
+        "video_path": ".\\AI\\AI_22.mp4",
+        "correct_choice": 2,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "自然色调",
+            "对比色调",
+            "暖色调",
+            "冷色调"
+        ]
+    },
+    {
+        "video_id": "AI_22",
+        "id": "AI_22_3",
+        "video_path": ".\\AI\\AI_22.mp4",
+        "correct_choice": 5,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "黑",
+            "红",
+            "橙",
+            "绿",
+            "蓝"
+        ]
+    },
+    {
+        "video_id": "AI_26",
+        "id": "AI_26_2",
+        "video_path": ".\\AI\\AI_26.mp4",
+        "correct_choice": 5,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "白",
+            "蓝",
+            "绿",
+            "青",
+            "橙"
+        ]
+    },
+    {
+        "video_id": "AI_27",
+        "id": "AI_27_3",
+        "video_path": ".\\AI\\AI_27.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "对比色调",
+            "自然色调",
+            "暖色调",
+            "冷色调"
+        ]
+    },
+    {
+        "video_id": "AI_28",
+        "id": "AI_28_3",
+        "video_path": ".\\AI\\AI_28.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "暖色调",
+            "自然色调",
+            "对比色调",
+            "冷色调"
+        ]
+    },
+    {
+        "video_id": "AI_28",
+        "id": "AI_28_4",
+        "video_path": ".\\AI\\AI_28.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "绿",
+            "蓝",
+            "紫",
+            "青",
+            "黄"
+        ]
+    },
+    {
+        "video_id": "AI_32",
+        "id": "AI_32_3",
+        "video_path": ".\\AI\\AI_32.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "暖色调",
+            "自然色调",
+            "冷色调",
+            "对比色调"
+        ]
+    },
+    {
+        "video_id": "AI_32",
+        "id": "AI_32_4",
+        "video_path": ".\\AI\\AI_32.mp4",
+        "correct_choice": 2,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "绿",
+            "橙",
+            "红",
+            "白",
+            "青"
+        ]
+    },
+    {
+        "video_id": "AI_33",
+        "id": "AI_33_3",
+        "video_path": ".\\AI\\AI_33.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "冷色调",
+            "自然色调",
+            "对比色调",
+            "暖色调"
+        ]
+    },
+    {
+        "video_id": "AI_33",
+        "id": "AI_33_4",
+        "video_path": ".\\AI\\AI_33.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "紫",
+            "黄",
+            "橙",
+            "红",
+            "蓝"
+        ]
+    },
+    {
+        "video_id": "AI_34",
+        "id": "AI_34_3",
+        "video_path": ".\\AI\\AI_34.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "暖色调",
+            "冷色调",
+            "自然色调",
+            "对比色调"
+        ]
+    },
+    {
+        "video_id": "AI_35",
+        "id": "AI_35_3",
+        "video_path": ".\\AI\\AI_35.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "紫",
+            "黑",
+            "黄",
+            "绿",
+            "白"
+        ]
+    },
+    {
+        "video_id": "AI_38",
+        "id": "AI_38_2",
+        "video_path": ".\\AI\\AI_38.mp4",
+        "correct_choice": 2,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "白",
+            "橙",
+            "青",
+            "紫",
+            "黄"
+        ]
+    },
+    {
+        "video_id": "AI_38",
+        "id": "AI_38_3",
+        "video_path": ".\\AI\\AI_38.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "黑",
+            "红",
+            "紫",
+            "蓝",
+            "白"
+        ]
+    },
+    {
+        "video_id": "AI_41",
+        "id": "AI_41_2",
+        "video_path": ".\\AI\\AI_41.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "蓝",
+            "黑",
+            "紫",
+            "橙",
+            "青"
+        ]
+    },
+    {
+        "video_id": "AI_42",
+        "id": "AI_42_3",
+        "video_path": ".\\AI\\AI_42.mp4",
+        "correct_choice": 2,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "自然色调",
+            "暖色调",
+            "对比色调",
+            "冷色调"
+        ]
+    },
+    {
+        "video_id": "AI_42",
+        "id": "AI_42_4",
+        "video_path": ".\\AI\\AI_42.mp4",
+        "correct_choice": 5,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "青",
+            "黑",
+            "绿",
+            "白",
+            "橙"
+        ]
+    },
+    {
+        "video_id": "AI_44",
+        "id": "AI_44_3",
+        "video_path": ".\\AI\\AI_44.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "对比色调",
+            "暖色调",
+            "冷色调",
+            "自然色调"
+        ]
+    },
+    {
+        "video_id": "AI_44",
+        "id": "AI_44_4",
+        "video_path": ".\\AI\\AI_44.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "黑",
+            "青",
+            "紫",
+            "橙",
+            "蓝"
+        ]
+    },
+    {
+        "video_id": "AI_45",
+        "id": "AI_45_3",
+        "video_path": ".\\AI\\AI_45.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "冷色调",
+            "暖色调",
+            "自然色调",
+            "对比色调"
+        ]
+    },
+    {
+        "video_id": "AI_45",
+        "id": "AI_45_4",
+        "video_path": ".\\AI\\AI_45.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "黄",
+            "绿",
+            "青",
+            "红",
+            "蓝"
+        ]
+    },
+    {
+        "video_id": "AI_45",
+        "id": "AI_45_5",
+        "video_path": ".\\AI\\AI_45.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "紫",
+            "青",
+            "橙",
+            "绿",
+            "黄"
+        ]
+    },
+    {
+        "video_id": "AI_46",
+        "id": "AI_46_2",
+        "video_path": ".\\AI\\AI_46.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "蓝",
+            "黄",
+            "黑",
+            "绿",
+            "红"
+        ]
+    },
+    {
+        "video_id": "AI_47",
+        "id": "AI_47_3",
+        "video_path": ".\\AI\\AI_47.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "红",
+            "黄",
+            "白",
+            "蓝",
+            "黑"
+        ]
+    },
+    {
+        "video_id": "AI_48",
+        "id": "AI_48_3",
+        "video_path": ".\\AI\\AI_48.mp4",
+        "correct_choice": 2,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "黄",
+            "橙",
+            "红",
+            "蓝",
+            "紫"
+        ]
+    },
+    {
+        "video_id": "AI_48",
+        "id": "AI_48_4",
+        "video_path": ".\\AI\\AI_48.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "白",
+            "黄",
+            "蓝",
+            "黑",
+            "紫"
+        ]
+    },
+    {
+        "video_id": "AI_51",
+        "id": "AI_51_2",
+        "video_path": ".\\AI\\AI_51.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "紫",
+            "白",
+            "橙",
+            "黄",
+            "绿"
+        ]
+    },
+    {
+        "video_id": "AI_51",
+        "id": "AI_51_3",
+        "video_path": ".\\AI\\AI_51.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "白",
+            "青",
+            "红",
+            "黑",
+            "绿"
+        ]
+    },
+    {
+        "video_id": "AI_52",
+        "id": "AI_52_2",
+        "video_path": ".\\AI\\AI_52.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "蓝",
+            "黄",
+            "橙",
+            "紫",
+            "青"
+        ]
+    },
+    {
+        "video_id": "AI_52",
+        "id": "AI_52_3",
+        "video_path": ".\\AI\\AI_52.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "紫",
+            "青",
+            "黑",
+            "红",
+            "绿"
+        ]
+    },
+    {
+        "video_id": "AI_55",
+        "id": "AI_55_3",
+        "video_path": ".\\AI\\AI_55.mp4",
+        "correct_choice": 2,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "黄",
+            "青",
+            "蓝",
+            "白",
+            "绿"
+        ]
+    },
+    {
+        "video_id": "AI_56",
+        "id": "AI_56_2",
+        "video_path": ".\\AI\\AI_56.mp4",
+        "correct_choice": 5,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "紫",
+            "蓝",
+            "青",
+            "白",
+            "橙"
+        ]
+    },
+    {
+        "video_id": "AI_56",
+        "id": "AI_56_3",
+        "video_path": ".\\AI\\AI_56.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "紫",
+            "白",
+            "黑",
+            "黄",
+            "绿"
+        ]
+    },
+    {
+        "video_id": "AI_58",
+        "id": "AI_58_2",
+        "video_path": ".\\AI\\AI_58.mp4",
+        "correct_choice": 5,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "黑",
+            "绿",
+            "紫",
+            "白",
+            "青"
+        ]
+    },
+    {
+        "video_id": "AI_58",
+        "id": "AI_58_3",
+        "video_path": ".\\AI\\AI_58.mp4",
+        "correct_choice": 5,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "橙",
+            "黑",
+            "白",
+            "红",
+            "蓝"
+        ]
+    },
+    {
+        "video_id": "AI_61",
+        "id": "AI_61_2",
+        "video_path": ".\\AI\\AI_61.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "冷色调",
+            "自然色调",
+            "对比色调",
+            "暖色调"
+        ]
+    },
+    {
+        "video_id": "AI_61",
+        "id": "AI_61_3",
+        "video_path": ".\\AI\\AI_61.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "红",
+            "紫",
+            "青",
+            "绿",
+            "蓝"
+        ]
+    },
+    {
+        "video_id": "AI_61",
+        "id": "AI_61_4",
+        "video_path": ".\\AI\\AI_61.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "黑",
+            "紫",
+            "蓝",
+            "绿",
+            "黄"
+        ]
+    },
+    {
+        "video_id": "AI_64",
+        "id": "AI_64_3",
+        "video_path": ".\\AI\\AI_64.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "对比色调",
+            "冷色调",
+            "自然色调",
+            "暖色调"
+        ]
+    },
+    {
+        "video_id": "AI_64",
+        "id": "AI_64_4",
+        "video_path": ".\\AI\\AI_64.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "蓝",
+            "黄",
+            "绿",
+            "橙",
+            "青"
+        ]
+    },
+    {
+        "video_id": "AI_66",
+        "id": "AI_66_3",
+        "video_path": ".\\AI\\AI_66.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "黑",
+            "橙",
+            "绿",
+            "黄",
+            "白"
+        ]
+    },
+    {
+        "video_id": "AI_67",
+        "id": "AI_67_3",
+        "video_path": ".\\AI\\AI_67.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "黑",
+            "蓝",
+            "白",
+            "橙",
+            "红"
+        ]
+    },
+    {
+        "video_id": "AI_68",
+        "id": "AI_68_3",
+        "video_path": ".\\AI\\AI_68.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "黑",
+            "紫",
+            "绿",
+            "红",
+            "青"
+        ]
+    },
+    {
+        "video_id": "AI_69",
+        "id": "AI_69_3",
+        "video_path": ".\\AI\\AI_69.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "紫",
+            "蓝",
+            "白",
+            "红",
+            "青"
+        ]
+    },
+    {
+        "video_id": "AI_71",
+        "id": "AI_71_3",
+        "video_path": ".\\AI\\AI_71.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "AI",
+        "candidates": [
+            "紫",
+            "蓝",
+            "橙",
+            "青",
+            "绿"
+        ]
+    },
+    {
+        "video_id": "DK_1",
+        "id": "DK_1_3",
+        "video_path": ".\\movie\\DK_1.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 19.1,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "黑",
+            "紫",
+            "绿",
+            "蓝",
+            "黄"
+        ]
+    },
+    {
+        "video_id": "DK_2",
+        "id": "DK_2_3",
+        "video_path": ".\\movie\\DK_2.mp4",
+        "correct_choice": 5,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 12.0,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "紫",
+            "绿",
+            "白",
+            "蓝",
+            "黑"
+        ]
+    },
+    {
+        "video_id": "DK_7",
+        "id": "DK_7_3",
+        "video_path": ".\\movie\\DK_7.mp4",
+        "correct_choice": 5,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 7.0,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "黄",
+            "青",
+            "橙",
+            "红",
+            "黑"
+        ]
+    },
+    {
+        "video_id": "DK_29",
+        "id": "DK_29_2",
+        "video_path": ".\\movie\\DK_29.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 9.8,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "绿",
+            "白",
+            "蓝",
+            "青",
+            "红"
+        ]
+    },
+    {
+        "video_id": "DK_29",
+        "id": "DK_29_3",
+        "video_path": ".\\movie\\DK_29.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 9.8,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "红",
+            "蓝",
+            "黑",
+            "橙",
+            "白"
+        ]
+    },
+    {
+        "video_id": "DK_31",
+        "id": "DK_31_3",
+        "video_path": ".\\movie\\DK_31.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 9.2,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "蓝",
+            "黄",
+            "青",
+            "红",
+            "白"
+        ]
+    },
+    {
+        "video_id": "DK_31",
+        "id": "DK_31_4",
+        "video_path": ".\\movie\\DK_31.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 9.2,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "红",
+            "蓝",
+            "黑",
+            "黄",
+            "绿"
+        ]
+    },
+    {
+        "video_id": "DK_33",
+        "id": "DK_33_2",
+        "video_path": ".\\movie\\DK_33.mp4",
+        "correct_choice": 2,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 11.5,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "自然色调",
+            "对比色调",
+            "冷色调",
+            "暖色调"
+        ]
+    },
+    {
+        "video_id": "DK_34",
+        "id": "DK_34_2",
+        "video_path": ".\\movie\\DK_34.mp4",
+        "correct_choice": 5,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 19.1,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "紫",
+            "红",
+            "绿",
+            "黄",
+            "黑"
+        ]
+    },
+    {
+        "video_id": "DK_39",
+        "id": "DK_39_2",
+        "video_path": ".\\movie\\DK_39.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 8.4,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "蓝",
+            "绿",
+            "紫",
+            "青",
+            "黄"
+        ]
+    },
+    {
+        "video_id": "DK_39",
+        "id": "DK_39_3",
+        "video_path": ".\\movie\\DK_39.mp4",
+        "correct_choice": 2,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 8.4,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "绿",
+            "黑",
+            "红",
+            "橙",
+            "黄"
+        ]
+    },
+    {
+        "video_id": "DK_48",
+        "id": "DK_48_2",
+        "video_path": ".\\movie\\DK_48.mp4",
+        "correct_choice": 2,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 6.0,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "冷色调",
+            "对比色调",
+            "暖色调",
+            "自然色调"
+        ]
+    },
+    {
+        "video_id": "DK_48",
+        "id": "DK_48_3",
+        "video_path": ".\\movie\\DK_48.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 6.0,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "白",
+            "橙",
+            "蓝",
+            "黑",
+            "绿"
+        ]
+    },
+    {
+        "video_id": "DK_50",
+        "id": "DK_50_3",
+        "video_path": ".\\movie\\DK_50.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 9.3,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "黑",
+            "绿",
+            "黄",
+            "白",
+            "红"
+        ]
+    },
+    {
+        "video_id": "DK_52",
+        "id": "DK_52_3",
+        "video_path": ".\\movie\\DK_52.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 11.4,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "红",
+            "黄",
+            "青",
+            "黑",
+            "白"
+        ]
+    },
+    {
+        "video_id": "DK_57",
+        "id": "DK_57_2",
+        "video_path": ".\\movie\\DK_57.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 6.8,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "青",
+            "橙",
+            "黄",
+            "蓝",
+            "红"
+        ]
+    },
+    {
+        "video_id": "DK_57",
+        "id": "DK_57_3",
+        "video_path": ".\\movie\\DK_57.mp4",
+        "correct_choice": 2,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 6.8,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "绿",
+            "黑",
+            "黄",
+            "蓝",
+            "白"
+        ]
+    },
+    {
+        "video_id": "DK_60",
+        "id": "DK_60_2",
+        "video_path": ".\\movie\\DK_60.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 10.2,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "紫",
+            "橙",
+            "黄",
+            "青",
+            "绿"
+        ]
+    },
+    {
+        "video_id": "DK_60",
+        "id": "DK_60_3",
+        "video_path": ".\\movie\\DK_60.mp4",
+        "correct_choice": 5,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 10.2,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "黄",
+            "蓝",
+            "白",
+            "红",
+            "黑"
+        ]
+    },
+    {
+        "video_id": "GF_2",
+        "id": "GF_2_2",
+        "video_path": ".\\movie\\GF_2.mp4",
+        "correct_choice": 5,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 3.3,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "红",
+            "橙",
+            "黄",
+            "青",
+            "黑"
+        ]
+    },
+    {
+        "video_id": "GF_4",
+        "id": "GF_4_3",
+        "video_path": ".\\movie\\GF_4.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 3.0,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "红",
+            "白",
+            "黑",
+            "绿",
+            "橙"
+        ]
+    },
+    {
+        "video_id": "GF_6",
+        "id": "GF_6_3",
+        "video_path": ".\\movie\\GF_6.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 7.2,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "绿",
+            "蓝",
+            "紫",
+            "黑",
+            "青"
+        ]
+    },
+    {
+        "video_id": "GF_9",
+        "id": "GF_9_2",
+        "video_path": ".\\movie\\GF_9.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 56.0,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "黄",
+            "绿",
+            "橙",
+            "蓝",
+            "黑"
+        ]
+    },
+    {
+        "video_id": "GF_10",
+        "id": "GF_10_2",
+        "video_path": ".\\movie\\GF_10.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 12.5,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "橙",
+            "青",
+            "白",
+            "红",
+            "紫"
+        ]
+    },
+    {
+        "video_id": "GF_10",
+        "id": "GF_10_3",
+        "video_path": ".\\movie\\GF_10.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 12.5,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "黑",
+            "黄",
+            "紫",
+            "白",
+            "绿"
+        ]
+    },
+    {
+        "video_id": "GF_13",
+        "id": "GF_13_2",
+        "video_path": ".\\movie\\GF_13.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 23.1,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "白",
+            "黄",
+            "橙",
+            "紫",
+            "红"
+        ]
+    },
+    {
+        "video_id": "GF_13",
+        "id": "GF_13_3",
+        "video_path": ".\\movie\\GF_13.mp4",
+        "correct_choice": 2,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 23.1,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "黄",
+            "黑",
+            "绿",
+            "蓝",
+            "青"
+        ]
+    },
+    {
+        "video_id": "GF_14",
+        "id": "GF_14_2",
+        "video_path": ".\\movie\\GF_14.mp4",
+        "correct_choice": 2,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 3.9,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "红",
+            "黑",
+            "白",
+            "绿",
+            "蓝"
+        ]
+    },
+    {
+        "video_id": "GF_15",
+        "id": "GF_15_3",
+        "video_path": ".\\movie\\GF_15.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 3.2,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "紫",
+            "白",
+            "绿",
+            "橙",
+            "蓝"
+        ]
+    },
+    {
+        "video_id": "GF_15",
+        "id": "GF_15_4",
+        "video_path": ".\\movie\\GF_15.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 3.2,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "黄",
+            "紫",
+            "绿",
+            "黑",
+            "红"
+        ]
+    },
+    {
+        "video_id": "GF_16",
+        "id": "GF_16_3",
+        "video_path": ".\\movie\\GF_16.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 3.8,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "橙",
+            "紫",
+            "青",
+            "蓝",
+            "红"
+        ]
+    },
+    {
+        "video_id": "GF_16",
+        "id": "GF_16_4",
+        "video_path": ".\\movie\\GF_16.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 3.8,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "蓝",
+            "黄",
+            "青",
+            "黑",
+            "绿"
+        ]
+    },
+    {
+        "video_id": "GF_17",
+        "id": "GF_17_3",
+        "video_path": ".\\movie\\GF_17.mp4",
+        "correct_choice": 2,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 3.2,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "绿",
+            "橙",
+            "白",
+            "蓝",
+            "紫"
+        ]
+    },
+    {
+        "video_id": "GF_24",
+        "id": "GF_24_2",
+        "video_path": ".\\movie\\GF_24.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 3.4,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "橙",
+            "蓝",
+            "黑",
+            "青",
+            "白"
+        ]
+    },
+    {
+        "video_id": "GF_25",
+        "id": "GF_25_3",
+        "video_path": ".\\movie\\GF_25.mp4",
+        "correct_choice": 5,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 17.1,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "橙",
+            "白",
+            "蓝",
+            "紫",
+            "黑"
+        ]
+    },
+    {
+        "video_id": "GF_40",
+        "id": "GF_40_3",
+        "video_path": ".\\movie\\GF_40.mp4",
+        "correct_choice": 5,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 18.2,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "白",
+            "青",
+            "黄",
+            "蓝",
+            "黑"
+        ]
+    },
+    {
+        "video_id": "GF_42",
+        "id": "GF_42_2",
+        "video_path": ".\\movie\\GF_42.mp4",
+        "correct_choice": 2,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 3.9,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "绿",
+            "橙",
+            "青",
+            "白",
+            "红"
+        ]
+    },
+    {
+        "video_id": "GF_42",
+        "id": "GF_42_3",
+        "video_path": ".\\movie\\GF_42.mp4",
+        "correct_choice": 2,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 3.9,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "白",
+            "黑",
+            "黄",
+            "青",
+            "绿"
+        ]
+    },
+    {
+        "video_id": "GF_44",
+        "id": "GF_44_2",
+        "video_path": ".\\movie\\GF_44.mp4",
+        "correct_choice": 5,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 19.0,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "白",
+            "黄",
+            "紫",
+            "蓝",
+            "黑"
+        ]
+    },
+    {
+        "video_id": "GF_48",
+        "id": "GF_48_3",
+        "video_path": ".\\movie\\GF_48.mp4",
+        "correct_choice": 5,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 32.9,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "绿",
+            "橙",
+            "蓝",
+            "紫",
+            "黑"
+        ]
+    },
+    {
+        "video_id": "GF_49",
+        "id": "GF_49_3",
+        "video_path": ".\\movie\\GF_49.mp4",
+        "correct_choice": 5,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 11.0,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "紫",
+            "黑",
+            "白",
+            "绿",
+            "橙"
+        ]
+    },
+    {
+        "video_id": "GF_53",
+        "id": "GF_53_2",
+        "video_path": ".\\movie\\GF_53.mp4",
+        "correct_choice": 5,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 15.4,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "绿",
+            "青",
+            "蓝",
+            "红",
+            "橙"
+        ]
+    },
+    {
+        "video_id": "GF_53",
+        "id": "GF_53_3",
+        "video_path": ".\\movie\\GF_53.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 15.4,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "绿",
+            "青",
+            "白",
+            "黑",
+            "黄"
+        ]
+    },
+    {
+        "video_id": "GF_56",
+        "id": "GF_56_2",
+        "video_path": ".\\movie\\GF_56.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 9.0,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "橙",
+            "紫",
+            "蓝",
+            "青",
+            "红"
+        ]
+    },
+    {
+        "video_id": "GF_56",
+        "id": "GF_56_3",
+        "video_path": ".\\movie\\GF_56.mp4",
+        "correct_choice": 5,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 9.0,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "绿",
+            "黄",
+            "紫",
+            "青",
+            "黑"
+        ]
+    },
+    {
+        "video_id": "OP_15",
+        "id": "OP_15_3",
+        "video_path": ".\\movie\\OP_15.mp4",
+        "correct_choice": 2,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 15.1,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "黄",
+            "黑",
+            "橙",
+            "紫",
+            "红"
+        ]
+    },
+    {
+        "video_id": "OP_20",
+        "id": "OP_20_2",
+        "video_path": ".\\movie\\OP_20.mp4",
+        "correct_choice": 2,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 4.3,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "自然色调",
+            "对比色调",
+            "冷色调",
+            "暖色调"
+        ]
+    },
+    {
+        "video_id": "OP_26",
+        "id": "OP_26_3",
+        "video_path": ".\\movie\\OP_26.mp4",
+        "correct_choice": 2,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 3.8,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "绿",
+            "黑",
+            "青",
+            "红",
+            "黄"
+        ]
+    },
+    {
+        "video_id": "OP_27",
+        "id": "OP_27_3",
+        "video_path": ".\\movie\\OP_27.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 11.7,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "黄",
+            "紫",
+            "黑",
+            "蓝",
+            "红"
+        ]
+    },
+    {
+        "video_id": "OP_29",
+        "id": "OP_29_3",
+        "video_path": ".\\movie\\OP_29.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "黄",
+            "黑",
+            "橙",
+            "青",
+            "紫"
+        ]
+    },
+    {
+        "video_id": "OP_30",
+        "id": "OP_30_3",
+        "video_path": ".\\movie\\OP_30.mp4",
+        "correct_choice": 2,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 4.0,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "暖色调",
+            "对比色调",
+            "冷色调",
+            "自然色调"
+        ]
+    },
+    {
+        "video_id": "OP_32",
+        "id": "OP_32_3",
+        "video_path": ".\\movie\\OP_32.mp4",
+        "correct_choice": 2,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 4.6,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "白",
+            "黑",
+            "黄",
+            "蓝",
+            "橙"
+        ]
+    },
+    {
+        "video_id": "OP_33",
+        "id": "OP_33_2",
+        "video_path": ".\\movie\\OP_33.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 3.0,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "橙",
+            "青",
+            "绿",
+            "紫",
+            "蓝"
+        ]
+    },
+    {
+        "video_id": "OP_33",
+        "id": "OP_33_3",
+        "video_path": ".\\movie\\OP_33.mp4",
+        "correct_choice": 5,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 3.0,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "青",
+            "黑",
+            "白",
+            "红",
+            "黄"
+        ]
+    },
+    {
+        "video_id": "OP_34",
+        "id": "OP_34_3",
+        "video_path": ".\\movie\\OP_34.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 7.2,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "自然色调",
+            "冷色调",
+            "对比色调",
+            "暖色调"
+        ]
+    },
+    {
+        "video_id": "OP_34",
+        "id": "OP_34_4",
+        "video_path": ".\\movie\\OP_34.mp4",
+        "correct_choice": 2,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 7.2,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "绿",
+            "橙",
+            "蓝",
+            "黄",
+            "白"
+        ]
+    },
+    {
+        "video_id": "OP_39",
+        "id": "OP_39_3",
+        "video_path": ".\\movie\\OP_39.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 9.5,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "紫",
+            "黑",
+            "橙",
+            "青",
+            "黄"
+        ]
+    },
+    {
+        "video_id": "OP_42",
+        "id": "OP_42_3",
+        "video_path": ".\\movie\\OP_42.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 6.5,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "紫",
+            "橙",
+            "黑",
+            "绿",
+            "青"
+        ]
+    },
+    {
+        "video_id": "OP_44",
+        "id": "OP_44_3",
+        "video_path": ".\\movie\\OP_44.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 3.8,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "橙",
+            "红",
+            "黄",
+            "青",
+            "白"
+        ]
+    },
+    {
+        "video_id": "OP_44",
+        "id": "OP_44_4",
+        "video_path": ".\\movie\\OP_44.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 3.8,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "绿",
+            "白",
+            "红",
+            "紫",
+            "蓝"
+        ]
+    },
+    {
+        "video_id": "OP_44",
+        "id": "OP_44_5",
+        "video_path": ".\\movie\\OP_44.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 3.8,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "黑",
+            "橙",
+            "红",
+            "蓝",
+            "紫"
+        ]
+    },
+    {
+        "video_id": "OP_45",
+        "id": "OP_45_3",
+        "video_path": ".\\movie\\OP_45.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 7.7,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "黑",
+            "白",
+            "橙",
+            "黄",
+            "绿"
+        ]
+    },
+    {
+        "video_id": "OP_54",
+        "id": "OP_54_3",
+        "video_path": ".\\movie\\OP_54.mp4",
+        "correct_choice": 2,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 5.3,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "黄",
+            "黑",
+            "青",
+            "蓝",
+            "红"
+        ]
+    },
+    {
+        "video_id": "OP_55",
+        "id": "OP_55_2",
+        "video_path": ".\\movie\\OP_55.mp4",
+        "correct_choice": 2,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 4.6,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "黄",
+            "绿",
+            "青",
+            "紫",
+            "橙"
+        ]
+    },
+    {
+        "video_id": "SL_1",
+        "id": "SL_1_3",
+        "video_path": ".\\movie\\SL_1.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面中出现了以下哪种基础色相？",
+        "duration": 6.0,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "黄",
+            "白",
+            "青",
+            "黑",
+            "紫"
+        ]
+    },
+    {
+        "video_id": "SL_7",
+        "id": "SL_7_2",
+        "video_path": ".\\movie\\SL_7.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 6.5,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "对比色调",
+            "暖色调",
+            "冷色调",
+            "自然色调"
+        ]
+    },
+    {
+        "video_id": "SL_8",
+        "id": "SL_8_2",
+        "video_path": ".\\movie\\SL_8.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 3.0,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "冷色调",
+            "对比色调",
+            "自然色调",
+            "暖色调"
+        ]
+    },
+    {
+        "video_id": "SL_9",
+        "id": "SL_9_2",
+        "video_path": ".\\movie\\SL_9.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 10.6,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "自然色调",
+            "暖色调",
+            "对比色调",
+            "冷色调"
+        ]
+    },
+    {
+        "video_id": "SL_13",
+        "id": "SL_13_2",
+        "video_path": ".\\movie\\SL_13.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 5.6,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "对比色调",
+            "暖色调",
+            "冷色调",
+            "自然色调"
+        ]
+    },
+    {
+        "video_id": "SL_15",
+        "id": "SL_15_2",
+        "video_path": ".\\movie\\SL_15.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 4.0,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "暖色调",
+            "对比色调",
+            "冷色调",
+            "自然色调"
+        ]
+    },
+    {
+        "video_id": "SL_25",
+        "id": "SL_25_2",
+        "video_path": ".\\movie\\SL_25.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "自然色调",
+            "暖色调",
+            "冷色调",
+            "对比色调"
+        ]
+    },
+    {
+        "video_id": "SL_26",
+        "id": "SL_26_2",
+        "video_path": ".\\movie\\SL_26.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 6.8,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "冷色调",
+            "对比色调",
+            "暖色调",
+            "自然色调"
+        ]
+    },
+    {
+        "video_id": "SL_36",
+        "id": "SL_36_2",
+        "video_path": ".\\movie\\SL_36.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 5.1,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "暖色调",
+            "冷色调",
+            "自然色调",
+            "对比色调"
+        ]
+    },
+    {
+        "video_id": "SL_37",
+        "id": "SL_37_2",
+        "video_path": ".\\movie\\SL_37.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 3.8,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "自然色调",
+            "对比色调",
+            "冷色调",
+            "暖色调"
+        ]
+    },
+    {
+        "video_id": "SL_38",
+        "id": "SL_38_2",
+        "video_path": ".\\movie\\SL_38.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 5.4,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "自然色调",
+            "冷色调",
+            "对比色调",
+            "暖色调"
+        ]
+    },
+    {
+        "video_id": "SL_40",
+        "id": "SL_40_2",
+        "video_path": ".\\movie\\SL_40.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 5.3,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "冷色调",
+            "暖色调",
+            "自然色调",
+            "对比色调"
+        ]
+    },
+    {
+        "video_id": "SL_41",
+        "id": "SL_41_2",
+        "video_path": ".\\movie\\SL_41.mp4",
+        "correct_choice": 2,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 15.8,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "暖色调",
+            "自然色调",
+            "对比色调",
+            "冷色调"
+        ]
+    },
+    {
+        "video_id": "SL_43",
+        "id": "SL_43_3",
+        "video_path": ".\\movie\\SL_43.mp4",
+        "correct_choice": 2,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 11.9,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "对比色调",
+            "自然色调",
+            "暖色调",
+            "冷色调"
+        ]
+    },
+    {
+        "video_id": "SL_44",
+        "id": "SL_44_3",
+        "video_path": ".\\movie\\SL_44.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 3.3,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "对比色调",
+            "暖色调",
+            "冷色调",
+            "自然色调"
+        ]
+    },
+    {
+        "video_id": "SL_47",
+        "id": "SL_47_3",
+        "video_path": ".\\movie\\SL_47.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 11.5,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "自然色调",
+            "暖色调",
+            "对比色调",
+            "冷色调"
+        ]
+    },
+    {
+        "video_id": "SL_48",
+        "id": "SL_48_3",
+        "video_path": ".\\movie\\SL_48.mp4",
+        "correct_choice": 4,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 6.0,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "冷色调",
+            "对比色调",
+            "暖色调",
+            "自然色调"
+        ]
+    },
+    {
+        "video_id": "SL_64",
+        "id": "SL_64_2",
+        "video_path": ".\\movie\\SL_64.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 3.0,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "冷色调",
+            "对比色调",
+            "自然色调",
+            "暖色调"
+        ]
+    },
+    {
+        "video_id": "SL_69",
+        "id": "SL_69_3",
+        "video_path": ".\\movie\\SL_69.mp4",
+        "correct_choice": 3,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 3.9,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "暖色调",
+            "对比色调",
+            "自然色调",
+            "冷色调"
+        ]
+    },
+    {
+        "video_id": "SL_73",
+        "id": "SL_73_3",
+        "video_path": ".\\movie\\SL_73.mp4",
+        "correct_choice": 2,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 3.5,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "暖色调",
+            "自然色调",
+            "对比色调",
+            "冷色调"
+        ]
+    },
+    {
+        "video_id": "SL_75",
+        "id": "SL_75_3",
+        "video_path": ".\\movie\\SL_75.mp4",
+        "correct_choice": 1,
+        "question": "请问视频画面的主要色调基调包含以下哪种？",
+        "duration": 5.8,
+        "question_category": "Color",
+        "video_category": "Movie",
+        "candidates": [
+            "自然色调",
+            "对比色调",
+            "冷色调",
+            "暖色调"
+        ]
+    }
+]
