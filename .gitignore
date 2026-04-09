@@ -13,6 +13,3 @@ Thumbs.db
 
 # Evaluation outputs (keep if needed by removing this line)
 pipeline/results/*/*/
-
-# Local helper lists for batched git adds (do not publish)
-.git_batch_specs/
