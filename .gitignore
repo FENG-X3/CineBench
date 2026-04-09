@@ -13,3 +13,4 @@ Thumbs.db
 
 # Evaluation outputs (keep if needed by removing this line)
 pipeline/results/*/*/
+.git_batch_specs/
